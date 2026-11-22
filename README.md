@@ -4,10 +4,6 @@ UESTCHN4002，2026 年 11 月 25 日（周三）课上的 5 分钟小组展示�
 
 ## 怎么打开
 
-GitHub 不能直接显示 HTML 页面：点开 `index.html` 只会看到源代码，文件大时会提示 “Sorry about that, but we can’t show files that are this big right now.”。在这个提示页上用浏览器「另存为」，存下来的是 GitHub 自己的网页，打开会显示 404。
-
-正确的拿法：
-
 1. 在仓库首页点绿色的 **Code** 按钮，选 **Download ZIP**。
 2. 解压后双击 `index.html`，用 Chrome、Edge 或 Safari 打开。不需要联网。
 
